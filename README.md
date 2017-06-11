@@ -2,10 +2,10 @@
   The classic game programmed in C++ with SFML. This is a game made as a challenge between me, 
 [artur99](https://github.com/artur99) and [iulyus01](https://github.com/iulyus01).
 
-# Preview
+## Preview
 ![alt tag](Preview.gif)
 
-# Release
+## Release
   Visit release page or download directly from [here](https://github.com/pmaxim98/Minesweeper/releases/download/v1.0/Minesweeper.rar).
 
 ## IDE / Compiler
